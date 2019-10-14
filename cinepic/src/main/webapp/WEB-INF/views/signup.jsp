@@ -137,7 +137,7 @@
 			<div class="collapse navbar-collapse"
 				id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav">
-					<li class="active"><a href="#">소개<span
+					<li class="active"><span
 							class="sr-only"></span></a></li>
 				</ul>
 				<form class="navbar-form navbar-left">
